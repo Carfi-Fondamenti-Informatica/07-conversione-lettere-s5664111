@@ -4,7 +4,7 @@ bool funzione (char &a){
     a=a+32;
     return true;
   }
-  else if((a>96)&&(a<123){
+  else if((a>96)&&(a<123)){
     a=a-32;
     return true;
   }
